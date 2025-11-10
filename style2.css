@@ -1,0 +1,9 @@
+img {
+    width: 500px;
+}
+body {
+    text-align: center;
+    font-family: "timesnewroman";
+    background: rgb(151, 22, 22);
+    color: rgb(140, 255, 0)
+}
